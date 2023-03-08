@@ -11,7 +11,7 @@ function showMenu(){
     navLinks.style.right="200px";
 }
 function hideMenu(){
-    navLinks.style.left="-200px";
+    navLinks.style.right="-200px";
 }
 
 
