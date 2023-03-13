@@ -16,7 +16,6 @@
     right:0;
     top:0;
     bottom:0;
-   
 
 }
 
@@ -28,10 +27,17 @@ nav{
 }
 
 nav img{
-    width: 150px;
+    width: 120px;
     left:0;
     right:0;
     top:0;
+    padding-right: 10px;
+    }
+
+    @media (max-width: 768px){
+        nav img{
+            width: 90px;
+        }
     }
 
 .nav-links{
