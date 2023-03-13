@@ -4,7 +4,7 @@ $visitor_email=$_POST['email'];
 $subject=$_POST['subject'];
 $message=$_POST['message'];
 
-$email_from='noreply@sample-git-changes-blindtroop.vercel.app';
+$email_from='noreply@sample-f4divrjdz-blindtroop.vercel.app';
 $email_subject='New Form Submission';
 
 $email_body="User Name: $name.\n".
